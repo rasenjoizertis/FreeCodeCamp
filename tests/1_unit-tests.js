@@ -29,7 +29,7 @@ suite('Unit Tests', function () {
   });
 
   // -----------------------------------------------------------------------------
-
+  // Me llego aquí XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   suite('Equality', function () {
     // #5
     test('#equal, #notEqual', function () {
